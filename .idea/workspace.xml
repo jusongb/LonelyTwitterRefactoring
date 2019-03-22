@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9d833cd-2763-4d1a-a8ea-85b623061a80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter_lab9/Tweet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LonelyTwitter/src/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/LonelyTwitter/src/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LonelyTwitter/src/ca/ualberta/cs/lonelytwitter/NormalLonelyTweet.java" beforeDir="false" afterPath="$PROJECT_DIR$/LonelyTwitter/src/ca/ualberta/cs/lonelytwitter/NormalLonelyTweet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LonelyTwitter/src/ca/ualberta/cs/lonelytwitter/TweetsFileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/LonelyTwitter/src/ca/ualberta/cs/lonelytwitter/TweetsFileManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LonelyTwitterRefactoring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LonelyTwitterRefactoring.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter_lab9/LonelyTwitterActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/NormalLonelyTweet.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter_lab9/NormalLonelyTweet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/TweetsFileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter_lab9/TweetsFileManager.java" afterDir="false" />
-    </list>
+    <list default="true" id="b9d833cd-2763-4d1a-a8ea-85b623061a80" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +19,7 @@
     <session id="565007249">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
