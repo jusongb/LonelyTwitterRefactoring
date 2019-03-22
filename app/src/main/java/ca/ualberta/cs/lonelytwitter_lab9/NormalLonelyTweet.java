@@ -1,4 +1,4 @@
-package ca.ualberta.cs.lonelytwitter;
+package ca.ualberta.cs.lonelytwitter_lab9;
 
 import java.io.IOException;
 import java.io.Serializable;
@@ -45,7 +45,7 @@ public class NormalLonelyTweet implements Serializable {
 		tweetBody = (String) in.readObject();
 	}
 
-	public boolean isValid() {
+	public boolean isTrue() {
 		if (tweetBody.trim().length() == 0
 				|| tweetBody.trim().length() > 10) {
 			return false;
